@@ -1,0 +1,27 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #496ffc;
+
+}
+.id1{
+    position: relative;
+    padding: 10px 20px;
+    background: rgb(40, 123, 161);
+    color: #fff;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    text-decoration: none;
+    letter-spacing: 4px;
+    left: 260px;
+    top: 60px;
+    transform-style: preserve-3d;
+    transition: ease-in-out 2s;
+    
+
+}
